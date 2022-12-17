@@ -1,0 +1,6 @@
+"17-Dec-22 21:48:02" - root - INFO - Started main()
+"17-Dec-22 21:48:02" - create_objects - INFO - Starting get_spark_object func
+"17-Dec-22 21:48:09" - create_objects - INFO - Returning spark object
+"17-Dec-22 21:48:09" - validations - INFO - Starting validate_spark_object().
+"17-Dec-22 21:48:12" - validations - INFO - validating spark object by printing current_date [Row(current_date()=datetime.date(2022, 12, 17))]
+"17-Dec-22 21:48:12" - root - INFO - Application ended.
